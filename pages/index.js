@@ -25,7 +25,7 @@ export default function Home() {
         </div>
         <div className="flex items-center justify-center">
           <button className="px-4 py-2 border-2 rounded-md border-[#ccb5ef] flex gap-3 items-center">
-            Go to mining page <BsArrowRight />
+            Go to mining page! <BsArrowRight />
           </button>
         </div>
       </div>
